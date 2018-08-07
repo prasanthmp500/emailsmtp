@@ -1,0 +1,15 @@
+spring:
+      mail:
+          host: test.smtp.org 
+          port: 25
+          username: 
+          password: 
+          properties:
+                    :mail:
+                         smtp:  
+                              auth: false       
+                              starttls.enable: false
+                              ssl.trust: test.smtp.org
+to: prasanthmp500@gmail.com
+from: primecast@localhost
+                             
